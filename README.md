@@ -60,7 +60,7 @@ Star schema with `hecho_ventas_propiedades` as the central fact table, connected
   - **Property type**
 - Conditional formatting (traffic-light colors) to highlight top-performing categories
 
-![Commercial Analysis](img/Commercial%20analysis.png.png)
+![Commercial Analysis](img/Commercial%20analysis.png)
 
 ### 3. Growth Over Time (YoY & YTD)
 - **Year-over-Year** revenue comparison
@@ -68,14 +68,14 @@ Star schema with `hecho_ventas_propiedades` as the central fact table, connected
 - Revenue representation in %
 - Line chart for time comparison across periods
 
-![Growth Over Time - YoY and YTD](images/YoY%20revenue.png)
+![Growth Over Time - YoY and YTD](img/YoY%20revenue.png)
 
 ### 4. Cohort Analysis
 - Cohort matrix: rows = acquisition month, columns = sale month
 - Number of sales and sales value per cohort
 - Shows repeat purchase behavior after the customer's first purchase
 
-![Cohort Analysis](images/cohorts.png)
+![Cohort Analysis](img/cohorts.png)
 
 ---
 
