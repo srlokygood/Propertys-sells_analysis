@@ -50,7 +50,7 @@ Star schema with `hecho_ventas_propiedades` as the central fact table, connected
 - Revenue trend over time
 - Key KPIs: Total Revenue, Number of Sales, Average Ticket, Total Commission
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](img/Overview.png)
 
 ### 2. Commercial Analysis
 - Sales price, quantity sold, and average revenue per **property type**
@@ -60,7 +60,7 @@ Star schema with `hecho_ventas_propiedades` as the central fact table, connected
   - **Property type**
 - Conditional formatting (traffic-light colors) to highlight top-performing categories
 
-![Commercial Analysis](images/02_commercial_analysis.png)
+![Commercial Analysis](img/Commercial%20analysis.png.png)
 
 ### 3. Growth Over Time (YoY & YTD)
 - **Year-over-Year** revenue comparison
@@ -68,14 +68,14 @@ Star schema with `hecho_ventas_propiedades` as the central fact table, connected
 - Revenue representation in %
 - Line chart for time comparison across periods
 
-![Growth Over Time - YoY and YTD](images/03_yoy_ytd.png)
+![Growth Over Time - YoY and YTD](images/YoY%20revenue.png)
 
 ### 4. Cohort Analysis
 - Cohort matrix: rows = acquisition month, columns = sale month
 - Number of sales and sales value per cohort
 - Shows repeat purchase behavior after the customer's first purchase
 
-![Cohort Analysis](images/04_cohort_analysis.png)
+![Cohort Analysis](images/cohorts.png)
 
 ---
 
